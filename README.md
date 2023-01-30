@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doandk, call me Doan
-- 👀 I’m interested in Linux, Cloud, K8S and CI/CD
-- 🌱 I’m currently learning Infrastructure as a Code
+- 👀 I’m interested in Linux, Cloud, K8S and CI/CD, and Infrastructure as a Code
+- 🌱 I’m currently working as Infrastructure Engineer
 
 <!---
 doandk/doandk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
